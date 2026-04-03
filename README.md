@@ -1,1 +1,1 @@
-AWS Cost optimiser python script
+AWS Cost optimiser python script(plug & play)
